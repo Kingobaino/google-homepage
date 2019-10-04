@@ -1,0 +1,165 @@
+li {
+    display: inline;
+}
+header { 
+    text-align: right;
+    margin: 0
+}
+.gmail, .images {
+    color: gray;
+    vertical-align: middle;
+}
+.google-apps, .google-accounts {
+    vertical-align: middle;
+}
+.google-accounts {
+    margin: 20px;
+    height: 35px;
+    width: 35px;
+}
+.google-apps {
+    height: 25px;
+    width: 25px;
+}
+.gmail {
+    padding-right: 15px;
+}
+.images {
+    padding-right: 15px;
+}
+main {
+    text-align: center;
+    height: auto;
+}
+img.logo {
+    width: 272px;
+    height: 92px;
+    margin: auto;
+    display: block;
+    padding-top: 109px ;
+    
+}
+.btn {
+    display: block;
+    margin-top: 20px;
+}
+input#search {
+    width: 572px;
+    height: 43px;
+    border: 1px solid lightgrey;
+    border-radius: 50px;
+
+}
+.inpute {
+    width: 527px;
+    height: 39px;
+    margin: auto;
+    margin-top: 35px;
+}
+.btn .btn1 {
+    background-color: #f2f2f2;
+    padding: 0 16px;
+    margin: 11px 14px;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    height: 40px;
+    width: 130px;
+    color: gray;
+}
+.btn .btn2 {
+    background-color: #f2f2f2;
+    padding: 0 16px;
+    margin: 11px 0;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    height: 40px;
+    width: 150px;
+    color: gray;
+}
+.language {
+    font-size: small;
+    line-height: 24px;
+    margin-top: 10px;
+}
+.english, .igbo, .hausa, .ede, .yoruba {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+.naija {
+    font-size: 13px;
+    height: 24px;
+    padding-left: 27px;
+    border-top: 1px solid lightgrey;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#foot {
+    display: block;
+    border-top: 1px solid lightgrey;
+    height: 24px;
+    padding-left: 27px;
+}
+#advert {
+    line-height: 50px;
+    padding-left: 0;
+    font-size: 13px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#bus {
+    line-height: 50px;
+    padding-left: 30px;
+    font-size: 13px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#abt {
+    line-height: 50px;
+    padding-left: 30px;
+    font-size: 13px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#how {
+    line-height: 50px;
+    padding-left: 30px;
+    font-size: 13px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#privacy {
+    line-height: 50px;
+    padding-left: 650px;
+    font-size: 13px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#terms {
+    line-height: 50px;
+    padding-left: 30px;
+    font-size: 13px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#settings {
+    line-height: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 13px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
